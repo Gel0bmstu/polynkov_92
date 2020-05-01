@@ -1,0 +1,32 @@
+Dependencies for Project 'project', Target 'main': (DO NOT MODIFY !)
+F (.\main.c)(0x5A7B2ACE)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MDR1986BE92-I.\RTE\_main-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\CoreSupport-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524" -D_RTE_ -DUSE_MDR32F9Q2_Rev1-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x559E835E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x58988FDA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x58988FDA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x58988FDA)
+I (.\RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x559E835E)
+I (defines.h)(0x5A4BFE09)
+I (inits.h)(0x5A7D3AF5)
+I (SPI.h)(0x5A4E24AB)
+I (L2G2IS.h)(0x5A4CB666)
+I (MPU-60x0.h)(0x5A4CB343)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x588BC994)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x588BC994)
+F (.\inits.h)(0x5A7D3AF5)()
+F (.\defines.h)(0x5A4BFE09)()
+F (.\L2G2IS.h)(0x5A4CB666)()
+F (.\MPU-60x0.h)(0x5A4CB343)()
+F (.\SPI.h)(0x5A4E24AB)()
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Lib\ARM\arm_cortexM3l_math.lib)(0x58988FDE)()
+F (RTE\Device\MDR1986BE92\startup_MDR32F9Qx.s)(0x559E835E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MDR1986BE92-I.\RTE\_main-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\CoreSupport-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "USE_MDR32F9Q2_Rev1 SETA 1"--list .\listings\startup_mdr32f9qx.lst --xref -o .\objects\startup_mdr32f9qx.o --depend .\objects\startup_mdr32f9qx.d)
+F (RTE\Device\MDR1986BE92\system_MDR32F9Qx.c)(0x559E835E)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MDR1986BE92-I.\RTE\_main-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\CoreSupport-IC:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524" -D_RTE_ -DUSE_MDR32F9Q2_Rev1-o .\objects\system_mdr32f9qx.o --omf_browse .\objects\system_mdr32f9qx.crf --depend .\objects\system_mdr32f9qx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h)(0x559E835E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x58988FDA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x58988FDA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x58988FDA)
+I (.\RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x559E835E)
+I (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config\MDR32F9Qx_config.h)(0x559E8358)
+I (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config\MDR32F9Qx_lib.h)(0x559E835C)
+F (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x559E835E)()

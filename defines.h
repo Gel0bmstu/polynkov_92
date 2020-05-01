@@ -1,0 +1,11 @@
+#pragma once
+#define CNT_VAL_MAX 50000
+#define PWM_CCR_MAX 4000
+#define CNT_TIM MDR_TIMER1
+#define PWM_TIM MDR_TIMER2
+#define CNT_VAL CNT_TIM->CNT
+#define PWM_SIN_CCR PWM_TIM->CCR1 //PA1
+#define PWM_COS_CCR PWM_TIM->CCR2 //PA3
+#define SPI MDR_SSP1
+#define HSE_FREQ 8000000
+#define CPU_FREQ 80000000
